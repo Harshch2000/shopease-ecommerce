@@ -57,6 +57,3 @@ Email `admin@shop.com`, password `Admin@123`. Change it before any real deployme
 | GET | /api/orders | user |
 | GET | /api/admin/orders | ADMIN |
 | PUT | /api/admin/orders/{id}/status?status= | ADMIN |
-
-## Next steps
-Real payments (Stripe or Razorpay), product detail page, image upload, email notifications, Docker Compose.
