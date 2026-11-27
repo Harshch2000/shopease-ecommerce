@@ -1,0 +1,2 @@
+// Created by Harsh Chourasia
+export const API = 'http://localhost:8080/api';
